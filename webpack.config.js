@@ -14,11 +14,6 @@ var config = {
   resolve: {
     extensions: ['.js', '.jsx']
   },
-  stats: {
-    colors: true,
-    reasons: true,
-    chunks: false
-  },
   module: {
      rules: [
     {
